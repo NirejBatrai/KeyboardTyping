@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { FaKeyboard, FaUserCircle } from "react-icons/fa";
 import { Typewriter } from "react-simple-typewriter";
 import TypingBox from "./Components/TypingBox";
